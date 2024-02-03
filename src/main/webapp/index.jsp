@@ -7,8 +7,8 @@
 <title>Mobile Management System</title>
 </head>
 <body>
-<h1>Welcome to mobile management system</h1>
-<h2><a href="addMobile">Add Mobile</a></h2>
-<h2><a href="displayMobile">Display Total Mobile</a></h2>
+<h1>Welcome To Mobile Management System</h1>
+<h2><a href="addMobile.jsp">Add Mobile</a></h2>
+<h2><a href="displayMobile.jsp">Display Total Mobile</a></h2>
 </body>
 </html>
