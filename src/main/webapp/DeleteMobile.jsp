@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Record Added</title>
+<title>Mobile Deleted</title>
 </head>
 <body>
 

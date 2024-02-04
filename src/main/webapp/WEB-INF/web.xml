@@ -8,10 +8,26 @@
      <servlet-name>add</servlet-name>
      <servlet-class>com.mobile.AddMobile</servlet-class>
   </servlet>
+  <servlet>
+     <servlet-name>updated</servlet-name>
+     <servlet-class>com.mobile.UpdatedMob</servlet-class>
+  </servlet>
+    <servlet>
+     <servlet-name>deleted</servlet-name>
+     <servlet-class>com.mobile.DeleteMob</servlet-class>
+  </servlet>
   
   
   <servlet-mapping>
      <servlet-name>add</servlet-name>
      <url-pattern>/addMobile</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+     <servlet-name>updated</servlet-name>
+     <url-pattern>/UpdatedMobileData</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+     <servlet-name>deleted</servlet-name>
+     <url-pattern>/DeleteMobile</url-pattern>
   </servlet-mapping>
 </web-app>
